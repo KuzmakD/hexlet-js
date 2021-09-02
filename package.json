@@ -1,0 +1,24 @@
+{
+  "name": "@kuzmak/mypackage",
+  "type": "module",
+  "version": "0.0.1",
+  "description": "Example of Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KuzmakD/hexlet-js.git"
+  },
+  "keywords": [
+    "kuzmak",
+    "node.js"
+  ],
+  "author": "Dmitry Korzun",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KuzmakD/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/KuzmakD/hexlet-js#readme"
+}
